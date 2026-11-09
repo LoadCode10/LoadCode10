@@ -34,10 +34,10 @@ My goal is to grow into a **senior full-stack AI engineer** who designs and ship
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[RAG Assistant for Administrative Procedures]([REPO-LINK])** | AI assistant that explains health-insurance procedures in plain language. Crawls and scrapes official sources, embeds them for semantic retrieval, generates grounded answers, and measures quality with RAGAS. | Python · Embeddings · Prompt Engineering · RAGAS · Docker |
-| **[AI Resume Analyzer]([REPO-LINK])** | Analyzes resumes with AI to extract skills and assess fit for a role. | JavaScript · Node.js · AI API |
-| **[Real-Time Team Task Dashboard]([REPO-LINK])** | Task management platform for project leaders and team members: statuses (To Do → In Progress → In Review → Done), priorities, real-time updates. | Node.js · JavaScript · HTML/CSS · Bootstrap |
-| **[Authentication System]([REPO-LINK])** | Secure auth flow: registration, email verification, password reset, access/refresh-token sessions. | Node.js · Express · MongoDB · JWT |
+| **[RAG Assistant for Administrative Procedures](https://github.com/LoadCode10/administration_assistant)** | AI assistant that explains health-insurance procedures in plain language. Crawls and scrapes official sources, embeds them for semantic retrieval, generates grounded answers, and measures quality with RAGAS. | Python · Embeddings · Prompt Engineering · RAGAS · Docker |
+| **[AI Resume Analyzer](https://github.com/LoadCode10/AI_Resume_Analyser)** | Analyzes resumes with AI to extract skills and assess fit for a role. | JavaScript · Node.js · AI API |
+| **[Real-Time Team Task Dashboard](https://github.com/LoadCode10/Demo_Dashboard)** | Task management platform for project leaders and team members: statuses (To Do → In Progress → In Review → Done), priorities, real-time updates. | Node.js · JavaScript · HTML/CSS · Bootstrap |
+| **[Authentication System](https://github.com/LoadCode10/Authentication_in_depth)** | Secure auth flow: registration, email verification, password reset, access/refresh-token sessions. | Node.js · Express · MongoDB · JWT |
 
 ---
 
