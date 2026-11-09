@@ -1,10 +1,3 @@
-<!--
-  HOW TO USE
-  1. On GitHub, create a new PUBLIC repository named exactly like your username (e.g. github.com/YOUR_USERNAME/YOUR_USERNAME).
-  2. Paste this file as README.md in that repository.
-  3. Replace every YOUR_USERNAME and every [REPO-LINK] below, then delete this comment.
--->
-
 <h1 align="center">Hi, I'm El-Mehdi Hamza 👋</h1>
 <h3 align="center">AI Engineer & Full-Stack Developer · I build end-to-end AI applications that solve real-world problems</h3>
 
